@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "732958940470",
+    "project_id": "iiit-bhubaneswar",
+    "storage_bucket": "iiit-bhubaneswar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:732958940470:android:4205121e6d51c3254be797",
+        "android_client_info": {
+          "package_name": "com.example.collegeadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "732958940470-7feclll1uf1tfl6ocoh9aqqrtud1pmrk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDH5EloMroErhYbcmFXbnlk4Mo90hDslRY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "732958940470-7feclll1uf1tfl6ocoh9aqqrtud1pmrk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
